@@ -1,0 +1,410 @@
+@media only screen and (max-width: 1200px){
+
+
+.main_blok{
+  border: 0px solid red;
+  width: 109.6%;
+}
+.p + div h1{
+  font-size: 6.5rem;
+}
+.p + div{
+  border: 0px solid red;
+  width: 170%;
+}
+.content_blok , .blok{
+  border: 0px solid red;
+}
+.blok button{
+  width: 24%;
+  margin-left: 4%;
+}
+.blok4{
+  border: 0px solid red;
+  width: 86%;
+  margin-top: 70px;
+}
+
+
+}
+
+@media only screen and (max-width: 992px){
+
+  .main_blok{
+    border: 0px solid red;
+    width: 113.5%;
+  }
+  .nav_menyu div{
+    border: 0px solid red;
+    width: 11%;
+  }
+  .nav_menyu div:first-child{
+    width: 52%;
+  }
+  .nav_menyu div:last-child{
+    width: 6.2%;
+    background-color: #FFC700;
+  }
+  .nav_menyu div:nth-child(4){
+    width: 17%;
+  }
+  .p , .p + div + p , .p + div + p + button{
+    margin-left: 39%;
+  }
+  .p + div + p + button{
+    width: 36%;
+  }
+  .p + div h1{
+    font-size: 6rem;
+  }
+  .p + div{
+    border: 0px solid red;
+    width: 140%;
+    margin-left: 16%;
+  }
+  .rasm{
+    height: 400px;
+    width: 400px;
+  }
+  .rasm + img{
+    height: 90%;
+    width: 90%;
+    margin-top: -630px;
+    margin-left: 7%;
+  }
+  .rasm1{
+    margin-top: 270px;
+  }
+  .content_blok , .blok{
+    border: 0px solid red;
+  }
+  .blok button{
+    width: 24%;
+    margin-left: 4%;
+  }
+  .p1 + h2{
+    font-size: 4.5rem;
+  }
+  ul li{
+    height: 24px;
+  }
+
+  .ul li{
+    width: 17%;
+  }
+
+  .blok4{
+    border: 0px solid red;
+    width: 93%;
+    margin-top: 70px;
+  }
+  .kul + img{
+    margin-left: -2%;
+  }
+  .blok6{
+    border: 0px solid red;
+    width: 99.7%;
+  }
+  .opacity{
+    width: 92%;
+    margin-left: 52%;
+  }
+
+
+}
+
+
+@media only screen and (max-width: 768px){
+
+
+  .main_blok{
+    border: 0px solid red;
+    width: 123.5%;
+  }
+  .nav_menyu div{
+    border: 0px solid red;
+    width: 11%;
+    display: none;
+  }
+  .nav_menyu div:first-child{
+    width: 52%;
+  }
+  .nav_menyu div:last-child{
+    width: 7%;
+    background-color: #FFC700;
+    display: block;
+    margin-left: 93%;
+  }
+  .nav_menyu div:nth-child(4){
+    width: 17%;
+  }
+  .p , .p + div + p , .p + div + p + button{
+    margin-left: 39%;
+  }
+  .p + div + p + button{
+    width: 36%;
+  }
+  .p + div h1{
+    font-size: 5rem;
+  }
+  .p + div{
+    border: 0px solid red;
+    width: 170%;
+    margin-left: 16%;
+  }
+  .content_blok div:first-child , .blok div:first-child{
+    width: 40%;
+  }
+  .content_blok div:last-child , .blok div:last-child{
+  width: 60%;
+  }
+  .blok div:last-child{
+    width: 53%;
+    border: 0px solid red;
+    height: 100%;
+  }
+  .rasm{
+    height: 400px;
+    width: 400px;
+    margin-left: 10%;
+  }
+  .rasm + img{
+    height: 90%;
+    width: 100%;
+    margin-top: -630px;
+    margin-left: 7%;
+  }
+  .rasm1{
+    margin-top: 310px;
+    width: 400px;
+  }
+  .content_blok , .blok{
+    border: 0px solid red;
+  }
+  .blok button{
+    width: 38%;
+    margin-left: 4%;
+  }
+  .p1 + h2{
+    font-size: 3.6rem;
+  }
+  .p1 + h2 + p{
+    font-size: 0.8rem;
+  }
+  ul li{
+    height: 20px;
+  }
+
+
+  .ul li{
+    width: 31%;
+  }
+
+  .blok4{
+    border: 0px solid red;
+    width: 83%;
+    margin-top: 70px;
+    height: 950px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .blok4 > div{
+    width: 45%;
+    height: 460px;
+  }
+  .kul + img{
+    margin-left: 17%;
+    position: relative;
+    bottom: 180px;
+  }
+  #kra , #krak{
+    margin-left: 22%;
+    height: 280px;
+    margin-top: -20px;
+  }
+  .blok6{
+    border: 0px solid red;
+    width: 99.7%;
+  }
+  .opacity{
+    width: 117%;
+    margin-left: 41%;
+  }
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 576px){
+
+
+  .main_blok{
+    border: 0px solid red;
+    width: 149.5%;
+  }
+  .nav_menyu div{
+    border: 0px solid red;
+    width: 11%;
+    display: none;
+  }
+  .nav_menyu div:first-child{
+    width: 52%;
+  }
+  .nav_menyu div:last-child{
+    width: 9%;
+    background-color: #FFC700;
+    display: block;
+    margin-left: 90.7%;
+  }
+  .nav_menyu div:nth-child(4){
+    width: 17%;
+  }
+  .p , .p + div + p , .p + div + p + button{
+    margin-left: 39%;
+  }
+  .p + div + p + button{
+    width: 36%;
+  }
+  .p + div h1{
+    font-size: 5rem;
+  }
+  .p + div{
+    border: 0px solid red;
+    width: 170%;
+    margin-left: 16%;
+  }
+
+  .content_blok div:first-child , .blok div:first-child{
+    width: 40%;
+  }
+  .content_blok div:last-child , .blok div:last-child{
+  width: 60%;
+    border: 0px solid red;
+  }
+  .rasm{
+    height: 300px;
+    width: 300px;
+    margin-left: 10%;
+  }
+  .rasm + img{
+    height: 500px;
+    margin-top: -420px;
+    margin-left: 7%;
+  }
+  .rasm1{
+    margin-top: 270px;
+    width: 330px;
+  }
+  .blok div:last-child{
+    padding-left: 5%;
+  }
+  .blok button{
+    width: 38%;
+    margin-left: 4%;
+  }
+  .p1 + h2{
+    font-size: 3rem;
+  }
+  .p1 + h2 + p{
+    font-size: 0.7rem;
+  }
+  ul li{
+    height: 18px;
+  }
+
+
+  .ul li{
+    width: 35%;
+  }
+
+  .blok4{
+    border: 0px solid red;
+    width: 90%;
+    margin-top: 70px;
+    height: 2390px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .blok4 > div{
+    width: 85%;
+    height: 550px;
+  }
+  .kul{
+  width: 150px;
+   height: 150px;
+  }
+  .kul + img{
+    margin-left: 22%;
+    position: relative;
+    bottom: 180px;
+  }
+  #kra , #krak{
+    margin-left: 40%;
+    height: 280px;
+    margin-top: -30px;
+  }
+  #krak1{
+    margin-left: 40%;
+    margin-top: -10px;
+  }
+  .kul + img ~ div div{
+    height: 36px;
+    width: 36px;
+  }
+  .kul + img ~ div + p{
+    margin-top: 20px;
+    font-size: 2rem;
+  }
+  .kul + img ~ div + p + p{
+    font-size: 2rem;
+  }
+  .kul + img ~ div + p + p + button{
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 24px;
+    font-size: 1.2rem;
+  }
+  .blok6{
+    border: 0px solid red;
+    width: 99.7%;
+  }
+  .opacity{
+    width: 137%;
+    margin-left: 30%;
+  }
+  .footer{
+    height: 1400px;
+  }
+  .footer > div{
+    height: 1400px;
+    flex-wrap: wrap;
+  }
+  .oll , .oll1 , .oll2{
+    width: 70%;
+    border: 3px solid rgba(128, 128, 128, 0.616);
+    padding: 5%;
+    margin-top: 20px;
+  }
+  .oll:hover , .oll1:hover , .oll2:hover{
+    border: 3px solid rgba(128, 128, 128, 0.616);
+    box-shadow: 0px 0px 10px 12px rgba(128, 128, 128, 0.5);
+    cursor: pointer;
+    transition: 1s;
+}
+  .oll2{
+    height: 10px;
+  }
+  .oll1 li:first-child{
+    font-size: 1.5rem;
+  }
+
+
+
+
+}
